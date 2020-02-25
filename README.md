@@ -1,32 +1,23 @@
-## Welcome to GitHub Pages
+## HTML Reader Pages
 
-You can use the [editor on GitHub](https://github.com/Furman-University-Editions/Readers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Contents
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Aristotle, *Poetics*
 
-### Markdown
+- [Aristotle *Poetics*, 1.head-4.3](Aristotle/Aristotle_Poetics0.html)
+- [Aristotle *Poetics*, 4.4-6.5](Aristotle/Aristotle_Poetics1.html)
+- [Aristotle *Poetics*, 6.6-7.12](Aristotle/Aristotle_Poetics2.html)
+- [Aristotle *Poetics*, 8.1-11.5](Aristotle/Aristotle_Poetics3.html)
+- [Aristotle *Poetics*, 11.6-14.5](Aristotle/Aristotle_Poetics4.html)
+- [Aristotle *Poetics*, 14.6-16.6](Aristotle/Aristotle_Poetics5.html)
+- [Aristotle *Poetics*, 16.7-18.16](Aristotle/Aristotle_Poetics6.html)
+- [Aristotle *Poetics*, 18.17-21.6](Aristotle/Aristotle_Poetics7.html)
+- [Aristotle *Poetics*, 21.7-22.14](Aristotle/Aristotle_Poetics8.html)
+- [Aristotle *Poetics*, 22.15-24.18](Aristotle/Aristotle_Poetics9.html)
+- [Aristotle *Poetics*, 24.19-25.27](Aristotle/Aristotle_Poetics10.html)
+- [Aristotle *Poetics*, 25.28-26.15](Aristotle/Aristotle_Poetics11.html)
+- [Aristotle *Poetics*, 26.16-26.16](Aristotle/Aristotle_Poetics12.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
