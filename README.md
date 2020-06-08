@@ -39,6 +39,7 @@ These are generated using the [CITE Architecture](http://cite-architecture.org) 
 
 #### Plutarch
 
+- [Plutarch, *Alexander* in CiteApp (for browsing and searching)](Plutarch/citeApp.html)
 - [Plutarch, *Alexander*, 1-5 ](Plutarch/Plut_Alex_1_5.html)
 - [Plutarch, *Alexander*, 6-10](Plutarch/Plut_Alex_6_10.html)
 - [Plutarch, *Alexander*, 11-15](Plutarch/Plut_Alex_11–15.html)
