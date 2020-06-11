@@ -4,7 +4,9 @@
 
 ### Contents
 
-These are links to stand-alone HTML pages that offer Greek and Latin texts with morphological and lexical hints. 
+[Let’s Read Together](lets_read.md): A small but growing list of videos in which students of ancient languages read Greek and Latin together.
+
+Below are links to stand-alone HTML pages that offer Greek and Latin texts with morphological and lexical hints.
 
 These are generated using the [CITE Architecture](http://cite-architecture.org) and the [Perseus Morphology Service](https://sites.tufts.edu/perseusupdates/2012/11/01/morphology-service-beta/).
 
