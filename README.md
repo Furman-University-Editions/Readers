@@ -10,6 +10,11 @@ Below are links to stand-alone HTML pages that offer Greek and Latin texts with 
 
 These are generated using the [CITE Architecture](http://cite-architecture.org) and the [Perseus Morphology Service](https://sites.tufts.edu/perseusupdates/2012/11/01/morphology-service-beta/).
 
+
+#### Apuleius, *Metamorphoses*
+
+- [*Metamoprhoses* 1](Apuleius/apuleius_01.html)
+
 #### Homer, *Iliad*
 
 - [*Iliad* 1.1-1.139](Iliad/Iliad_1_part1.html)
