@@ -13,17 +13,17 @@ These are generated using the [CITE Architecture](http://cite-architecture.org) 
 
 #### Apuleius, *Metamorphoses*
 
-- [*Metamoprhoses* 1](Apuleius/apuleius_01.html)
-- [*Metamoprhoses* 2](Apuleius/apuleius_02.html)
-- [*Metamoprhoses* 3](Apuleius/apuleius_03.html)
-- [*Metamoprhoses* 4](Apuleius/apuleius_04.html)
-- [*Metamoprhoses* 5](Apuleius/apuleius_05.html)
-- [*Metamoprhoses* 6](Apuleius/apuleius_06.html)
-- [*Metamoprhoses* 7](Apuleius/apuleius_07.html)
-- [*Metamoprhoses* 8](Apuleius/apuleius_08.html)
-- [*Metamoprhoses* 9](Apuleius/apuleius_09.html)
-- [*Metamoprhoses* 10](Apuleius/apuleius_10.html)
-- [*Metamoprhoses* 11](Apuleius/apuleius_11.html)
+- [*Metamorphoses* 1](Apuleius/apuleius_01.html)
+- [*Metamorphoses* 2](Apuleius/apuleius_02.html)
+- [*Metamorphoses* 3](Apuleius/apuleius_03.html)
+- [*Metamorphoses* 4](Apuleius/apuleius_04.html)
+- [*Metamorphoses* 5](Apuleius/apuleius_05.html)
+- [*Metamorphoses* 6](Apuleius/apuleius_06.html)
+- [*Metamorphoses* 7](Apuleius/apuleius_07.html)
+- [*Metamorphoses* 8](Apuleius/apuleius_08.html)
+- [*Metamorphoses* 9](Apuleius/apuleius_09.html)
+- [*Metamorphoses* 10](Apuleius/apuleius_10.html)
+- [*Metamorphoses* 11](Apuleius/apuleius_11.html)
 
 #### Homer, *Iliad*
 
