@@ -12,16 +12,16 @@ These are generated using the [CITE Architecture](http://cite-architecture.org) 
 
 #### Epictetus, *Encheiridion*
 
-- [Epictetus, *Encheiridion* 1-3](epictetus_1-3.html)
-- [Epictetus, *Encheiridion* 4-6](epictetus_4-6.html)
-- [Epictetus, *Encheiridion* 7-9](epictetus_7-9.html)
-- [Epictetus, *Encheiridion* 10-12](epictetus_10-12.html)
-- [Epictetus, *Encheiridion* 13-15](epictetus_13-15.html)
-- [Epictetus, *Encheiridion* 16-18](epictetus_16-18.html)
-- [Epictetus, *Encheiridion* 19-21](epictetus_19-21.html)
-- [Epictetus, *Encheiridion* 22-24](epictetus_22-24.html)
-- [Epictetus, *Encheiridion* 25-27](epictetus_25-27.html)
-- [Epictetus, *Encheiridion* 28-30](epictetus_28-30.html)
+- [Epictetus, *Encheiridion* 1-3](Epictetus/epictetus_1-3.html)
+- [Epictetus, *Encheiridion* 4-6](Epictetus/epictetus_4-6.html)
+- [Epictetus, *Encheiridion* 7-9](Epictetus/epictetus_7-9.html)
+- [Epictetus, *Encheiridion* 10-12](Epictetus/epictetus_10-12.html)
+- [Epictetus, *Encheiridion* 13-15](Epictetus/epictetus_13-15.html)
+- [Epictetus, *Encheiridion* 16-18](Epictetus/epictetus_16-18.html)
+- [Epictetus, *Encheiridion* 19-21](Epictetus/epictetus_19-21.html)
+- [Epictetus, *Encheiridion* 22-24](Epictetus/epictetus_22-24.html)
+- [Epictetus, *Encheiridion* 25-27](Epictetus/epictetus_25-27.html)
+- [Epictetus, *Encheiridion* 28-30](Epictetus/epictetus_28-30.html)
 
 
 #### Apuleius, *Metamorphoses*
