@@ -22,6 +22,16 @@ These are generated using the [CITE Architecture](http://cite-architecture.org) 
 - [Epictetus, *Encheiridion* 22-24](Epictetus/epictetus_22-24.html)
 - [Epictetus, *Encheiridion* 25-27](Epictetus/epictetus_25-27.html)
 - [Epictetus, *Encheiridion* 28-30](Epictetus/epictetus_28-30.html)
+- [Epictetus, *Encheiridion* 31-33](Epictetus/epictetus_31-33.html)
+- [Epictetus, *Encheiridion* 34-36](Epictetus/epictetus_34-36.html)
+- [Epictetus, *Encheiridion* 37-39](Epictetus/epictetus_37-39.html)
+- [Epictetus, *Encheiridion* 40-42](Epictetus/epictetus_40-42.html)
+- [Epictetus, *Encheiridion* 43-45](Epictetus/epictetus_43-45.html)
+- [Epictetus, *Encheiridion* 46-48](Epictetus/epictetus_46-48.html)
+- [Epictetus, *Encheiridion* 49-51](Epictetus/epictetus_49-51.html)
+- [Epictetus, *Encheiridion* 52-53](Epictetus/epictetus_52-53.html)
+
+
 
 
 #### Apuleius, *Metamorphoses*
