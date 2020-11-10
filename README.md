@@ -10,6 +10,12 @@ Below are links to stand-alone HTML pages that offer Greek and Latin texts with 
 
 These are generated using the [CITE Architecture](http://cite-architecture.org) and the [Perseus Morphology Service](https://sites.tufts.edu/perseusupdates/2012/11/01/morphology-service-beta/).
 
+#### Marcus Aurelius, *Ad Se Ipsum* 
+
+(Pages are in progress and will be added incrementally.)
+
+- [Marcus Aurelius, 1.1.1-1.14.2](Marcus_Aurelius/marcus_aurelius_1.1.1-1.14.2.html)
+
 #### Epictetus, *Encheiridion*
 
 - [Epictetus, *Encheiridion* 1-3](Epictetus/epictetus_1-3.html)
