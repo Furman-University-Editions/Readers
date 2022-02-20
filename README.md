@@ -10,6 +10,48 @@ Below are links to stand-alone HTML pages that offer Greek and Latin texts with 
 
 These are generated using the [CITE Architecture](http://cite-architecture.org) and the [Perseus Morphology Service](https://sites.tufts.edu/perseusupdates/2012/11/01/morphology-service-beta/).
 
+#### The Homeric Hymn to Demeter
+
+- [To Demeter 1-50](HomericHymns/Demeter_1-50.html)
+- [To Demeter 51-100](HomericHymns/Demeter_51-100.html)
+- [To Demeter 101-150](HomericHymns/Demeter_101-150.html)
+- [To Demeter 151-200](HomericHymns/Demeter_151-200.html)
+- [To Demeter 201-250](HomericHymns/Demeter_201-250.html)
+- [To Demeter 251-300](HomericHymns/Demeter_251-300.html)
+- [To Demeter 301-350](HomericHymns/Demeter_301-350.html)
+- [To Demeter 351-400](HomericHymns/Demeter_351-400.html)
+- [To Demeter 401-450](HomericHymns/Demeter_401-450.html)
+- [To Demeter 451-495](HomericHymns/Demeter_451-495.html)
+
+#### Thucydides, Books 1 and 2
+
+- [Thuc. 1.81-1.90](Thucydides/Thuc_1.81-1.90.html)
+- [Thuc. 1.1-1.10](Thucydides/Thuc_1.1-1.10.html)
+- [Thuc. 1.11-1.20](Thucydides/Thuc_1.11-1.20.html)
+- [Thuc. 1.21-1.30](Thucydides/Thuc_1.21-1.30.html)
+- [Thuc. 1.31-1.40](Thucydides/Thuc_1.31-1.40.html)
+- [Thuc. 1.41-1.50](Thucydides/Thuc_1.41-1.50.html)
+- [Thuc. 1.51-1.60](Thucydides/Thuc_1.51-1.60.html)
+- [Thuc. 1.61-1.70](Thucydides/Thuc_1.61-1.70.html)
+- [Thuc. 1.71-1.80](Thucydides/Thuc_1.71-1.80.html)
+- [Thuc. 1.91-1.100](Thucydides/Thuc_1.91-1.100.html)
+- [Thuc. 1.101-1.110](Thucydides/Thuc_1.101-1.110.html)
+- [Thuc. 1.111-1.120](Thucydides/Thuc_1.111-1.120.html)
+- [Thuc. 1.121-1.130](Thucydides/Thuc_1.121-1.130.html)
+- [Thuc. 1.131-1.140](Thucydides/Thuc_1.131-1.140.html)
+- [Thuc. 1.141-2.3](Thucydides/Thuc_1.141-2.3.html)
+- [Thuc. 2.4-2.13](Thucydides/Thuc_2.4-2.13.html)
+- [Thuc. 2.14-2.23](Thucydides/Thuc_2.14-2.23.html)
+- [Thuc. 2.24-2.33](Thucydides/Thuc_2.24-2.33.html)
+- [Thuc. 2.34-2.43](Thucydides/Thuc_2.34-2.43.html)
+- [Thuc. 2.44-2.53](Thucydides/Thuc_2.44-2.53.html)
+- [Thuc. 2.54-2.63](Thucydides/Thuc_2.54-2.63.html)
+- [Thuc. 2.64-2.73](Thucydides/Thuc_2.64-2.73.html)
+- [Thuc. 2.74-2.83](Thucydides/Thuc_2.74-2.83.html)
+- [Thuc. 2.84-2.93](Thucydides/Thuc_2.84-2.93.html)
+- [Thuc. 2.94-2.103](Thucydides/Thuc_2.94-2.103.html)
+
+
 #### Marcus Aurelius, *Ad Se Ipsum* 
 
 (Pages are in progress and will be added incrementally.)
