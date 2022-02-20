@@ -12,16 +12,16 @@ These are generated using the [CITE Architecture](http://cite-architecture.org) 
 
 #### The Homeric Hymn to Demeter
 
-- [To Demeter 1-50](HomericHymns/Demeter_1-50.html)
-- [To Demeter 51-100](HomericHymns/Demeter_51-100.html)
-- [To Demeter 101-150](HomericHymns/Demeter_101-150.html)
-- [To Demeter 151-200](HomericHymns/Demeter_151-200.html)
-- [To Demeter 201-250](HomericHymns/Demeter_201-250.html)
-- [To Demeter 251-300](HomericHymns/Demeter_251-300.html)
-- [To Demeter 301-350](HomericHymns/Demeter_301-350.html)
-- [To Demeter 351-400](HomericHymns/Demeter_351-400.html)
-- [To Demeter 401-450](HomericHymns/Demeter_401-450.html)
-- [To Demeter 451-495](HomericHymns/Demeter_451-495.html)
+- [To Demeter 1-50](Homeric_Hymns/Demeter_1-50.html)
+- [To Demeter 51-100](Homeric_Hymns/Demeter_51-100.html)
+- [To Demeter 101-150](Homeric_Hymns/Demeter_101-150.html)
+- [To Demeter 151-200](Homeric_Hymns/Demeter_151-200.html)
+- [To Demeter 201-250](Homeric_Hymns/Demeter_201-250.html)
+- [To Demeter 251-300](Homeric_Hymns/Demeter_251-300.html)
+- [To Demeter 301-350](Homeric_Hymns/Demeter_301-350.html)
+- [To Demeter 351-400](Homeric_Hymns/Demeter_351-400.html)
+- [To Demeter 401-450](Homeric_Hymns/Demeter_401-450.html)
+- [To Demeter 451-495](Homeric_Hymns/Demeter_451-495.html)
 
 #### Thucydides, Books 1 and 2
 
