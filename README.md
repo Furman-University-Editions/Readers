@@ -10,7 +10,9 @@ Below are links to stand-alone HTML pages that offer Greek and Latin texts with 
 
 These are generated using the [CITE Architecture](http://cite-architecture.org) and the [Perseus Morphology Service](https://sites.tufts.edu/perseusupdates/2012/11/01/morphology-service-beta/).
 
-#### The Homeric Hymn to Demeter
+### (Some of) The Homeric Hymns
+
+#### To Demeter
 
 - [To Demeter 1-50](Homeric_Hymns/Demeter_1-50.html)
 - [To Demeter 51-100](Homeric_Hymns/Demeter_51-100.html)
@@ -22,6 +24,31 @@ These are generated using the [CITE Architecture](http://cite-architecture.org) 
 - [To Demeter 351-400](Homeric_Hymns/Demeter_351-400.html)
 - [To Demeter 401-450](Homeric_Hymns/Demeter_401-450.html)
 - [To Demeter 451-495](Homeric_Hymns/Demeter_451-495.html)
+
+#### To Hermes
+
+- [To Hermes 1-50](Homeric_Hymns/Hermes_1-50.html)
+- [To Hermes 51-100](Homeric_Hymns/Hermes_51-100.html)
+- [To Hermes 101-150](Homeric_Hymns/Hermes_101-150.html)
+- [To Hermes 151-200](Homeric_Hymns/Hermes_151-200.html)
+- [To Hermes 201-250](Homeric_Hymns/Hermes_201-250.html)
+- [To Hermes 251-300](Homeric_Hymns/Hermes_251-300.html)
+- [To Hermes 301-350](Homeric_Hymns/Hermes_301-350.html)
+- [To Hermes 351-400](Homeric_Hymns/Hermes_351-400.html)
+- [To Hermes 401-450](Homeric_Hymns/Hermes_401-450.html)
+- [To Hermes 451-500](Homeric_Hymns/Hermes_451-500.html)
+- [To Hermes 501-550](Homeric_Hymns/Hermes_501-550.html)
+- [To Hermes 551-580](Homeric_Hymns/Hermes_551-580.html)
+- [To Aphrodite 1-50](Homeric_Hymns/Aphrodite_1-50.html)
+
+#### To Aphrodite
+
+- [To Aphrodite 1-50](Homeric_Hymns/Aphrodite_1-50.html)
+- [To Aphrodite 51-100](Homeric_Hymns/Aphrodite_51-100.html)
+- [To Aphrodite 101-150](Homeric_Hymns/Aphrodite_101-150.html)
+- [To Aphrodite 151-200](Homeric_Hymns/Aphrodite_151-200.html)
+- [To Aphrodite 201-250](Homeric_Hymns/Aphrodite_201-250.html)
+- [To Aphrodite 251-293](Homeric_Hymns/Aphrodite_251-293.html)
 
 #### Thucydides, Books 1 and 2
 
