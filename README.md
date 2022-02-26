@@ -2,6 +2,8 @@
 
 To actually read the texts in your web-browser, please go to the [io page](https://furman-university-editions.github.io/Readers/).
 
+**A very good site for similar reading, in almost every way better than the reading-texts here, please see [In Usum](https://www.inusum.com), developed by Dr. Randall Childree of Furman University.** His versions of the *Iliad* are both complete, and significantly better than the ones linked below!
+
 ### Contents
 
 [Let’s Read Together](lets_read.md): A small but growing list of videos in which students of ancient languages read Greek and Latin together.
