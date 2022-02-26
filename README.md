@@ -2,7 +2,7 @@
 
 To actually read the texts in your web-browser, please go to the [io page](https://furman-university-editions.github.io/Readers/).
 
-**A very good site for similar reading, in almost every way better than the reading-texts here, please see [In Usum](https://www.inusum.com), developed by Dr. Randall Childree of Furman University.** His versions of the *Iliad* are both complete, and significantly better than the ones linked below!
+**A very good site for reading pages, similar to these but better in almost every respect, please see [In Usum](https://www.inusum.com), developed by Dr. Randall Childree of Furman University.** His versions of the *Iliad* are both complete, and significantly better than the ones linked below!
 
 ### Contents
 
