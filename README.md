@@ -52,7 +52,7 @@ These are generated using the [CITE Architecture](http://cite-architecture.org) 
 - [To Aphrodite 201-250](Homeric_Hymns/Aphrodite_201-250.html)
 - [To Aphrodite 251-293](Homeric_Hymns/Aphrodite_251-293.html)
 
-#### Thucydides, Books 1 and 2
+### Thucydides, Books 1 and 2
 
 - [Thuc. 1.81-1.90](Thucydides/Thuc_1.81-1.90.html)
 - [Thuc. 1.1-1.10](Thucydides/Thuc_1.1-1.10.html)
@@ -81,7 +81,7 @@ These are generated using the [CITE Architecture](http://cite-architecture.org) 
 - [Thuc. 2.94-2.103](Thucydides/Thuc_2.94-2.103.html)
 
 
-#### Marcus Aurelius, *Ad Se Ipsum* 
+### Marcus Aurelius, *Ad Se Ipsum* 
 
 (Pages are in progress and will be added incrementally.)
 
@@ -115,7 +115,7 @@ These are generated using the [CITE Architecture](http://cite-architecture.org) 
 - [Marcus Aurelius 12.1.1-12.18.1](Marcus_Aurelius/marcus_aurelius_12.1.1-12.18.1.html)
 - [Marcus Aurelius 12.19.1-12.36.1](Marcus_Aurelius/marcus_aurelius_12.19.1-12.36.1.html)
 
-#### Epictetus, *Encheiridion*
+### Epictetus, *Encheiridion*
 
 - [Epictetus, *Encheiridion* 1-3](Epictetus/epictetus_1-3.html)
 - [Epictetus, *Encheiridion* 4-6](Epictetus/epictetus_4-6.html)
@@ -139,7 +139,7 @@ These are generated using the [CITE Architecture](http://cite-architecture.org) 
 
 
 
-#### Apuleius, *Metamorphoses*
+### Apuleius, *Metamorphoses*
 
 - [*Metamorphoses* 1](Apuleius/apuleius_01.html)
 - [*Metamorphoses* 2](Apuleius/apuleius_02.html)
@@ -153,7 +153,7 @@ These are generated using the [CITE Architecture](http://cite-architecture.org) 
 - [*Metamorphoses* 10](Apuleius/apuleius_10.html)
 - [*Metamorphoses* 11](Apuleius/apuleius_11.html)
 
-#### Homer, *Iliad*
+### Homer, *Iliad*
 
 - [*Iliad* 1.1-1.139](Iliad/Iliad_1_part1.html)
 - [*Iliad* 23.1-23.100](Iliad/Iliad_23_1.html)
@@ -166,7 +166,7 @@ These are generated using the [CITE Architecture](http://cite-architecture.org) 
 - [*Iliad* 23.701-23.800](Iliad/Iliad_23_8.html)
 - [*Iliad* 23.801-23.897](Iliad/Iliad_23_9.html)
 
-#### Aristotle, *Poetics*
+### Aristotle, *Poetics*
 
 - [Aristotle *Poetics*, 1.head-4.3](Aristotle/Aristotle_Poetics0.html)
 - [Aristotle *Poetics*, 4.4-6.5](Aristotle/Aristotle_Poetics1.html)
@@ -182,7 +182,7 @@ These are generated using the [CITE Architecture](http://cite-architecture.org) 
 - [Aristotle *Poetics*, 25.28-26.15](Aristotle/Aristotle_Poetics11.html)
 - [Aristotle *Poetics*, 26.16-26.16](Aristotle/Aristotle_Poetics12.html)
 
-#### Plutarch
+### Plutarch
 
 - [Plutarch, *Alexander* in CiteApp (for browsing and searching)](Plutarch/citeApp.html)
 - [Plutarch, *Alexander*, 1-5 ](Plutarch/Plut_Alex_1_5.html)
@@ -202,7 +202,7 @@ These are generated using the [CITE Architecture](http://cite-architecture.org) 
 - [Plutarch, *Alexander*, 71-75](Plutarch/Plut_Alex_71–75.html)
 - [Plutarch, *Alexander*, 76-77](Plutarch/Plut_Alex_76–77.html)
 
-#### Misc.
+### Misc.
 
 - [Lysias 1](Misc/lysias_1.html)
 - [Diogenes Laertius Book 10, *Epistle to Menoeceus*](Misc/diogenes_menoeceus.html)
