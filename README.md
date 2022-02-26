@@ -8,9 +8,13 @@ To actually read the texts in your web-browser, please go to the [io page](https
 
 [Let’s Read Together](lets_read.md): A small but growing list of videos in which students of ancient languages read Greek and Latin together.
 
+#### Reading Pages
+
 Below are links to stand-alone HTML pages that offer Greek and Latin texts with morphological and lexical hints.
 
-These are generated using the [CITE Architecture](http://cite-architecture.org) and the [Perseus Morphology Service](https://sites.tufts.edu/perseusupdates/2012/11/01/morphology-service-beta/).
+These are generated using the [CITE Architecture](http://cite-architecture.org) and the [Perseus Morphology Service](https://sites.tufts.edu/perseusupdates/2012/11/01/morphology-service-beta/). Because this is an automated process, the parsing and linking to the lexicon is necessarily imperfect. 
+
+Readers might find more help from consulting the [online LSJ Greek Lexicon](http://folio2.furman.edu/lsj/) and the [online Lewis & Short Latin Dictionary](http://folio2.furman.edu/lewis-short/index.html).
 
 ### (Some of) The Homeric Hymns
 
