@@ -1,6 +1,6 @@
 ## HTML Reader Pages
 
-[io page](https://furman-university-editions.github.io/Readers/)
+To actually read the texts in your web-browser, please go to the [io page](https://furman-university-editions.github.io/Readers/).
 
 ### Contents
 
