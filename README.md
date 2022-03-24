@@ -16,6 +16,12 @@ These are generated using the [CITE Architecture](http://cite-architecture.org) 
 
 Readers might find more help from consulting the [online LSJ Greek Lexicon](http://folio2.furman.edu/lsj/) and the [online Lewis & Short Latin Dictionary](http://folio2.furman.edu/lewis-short/index.html).
 
+### Sophocles *Oedipus Tyrannos*
+
+Reading pages with lexicography, morphology, and syntax.
+
+- [Start Page](OT_2019/pages/index.html)
+
 ### (Some of) The Homeric Hymns
 
 #### To Demeter
