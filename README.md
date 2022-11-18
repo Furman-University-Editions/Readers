@@ -22,6 +22,11 @@ Reading pages with lexicography, morphology, and syntax.
 
 - [Start Page](OT_2019/pages/index.html)
 
+### New Testament (in progress)
+
+- [The Gospel According to John](john.md)
+- [The Gospel According to Luke](luke.md)
+
 ### (Some of) The Homeric Hymns
 
 #### To Demeter
