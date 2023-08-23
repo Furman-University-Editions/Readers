@@ -22,6 +22,12 @@ Reading pages with lexicography, morphology, and syntax.
 
 - [Start Page](OT_2019/pages/index.html)
 
+### Herodotus
+
+* The automated parsing didn't do well with Herodotus' Ionic dialect, so these pages are somewhat weak. Sorry.
+
+- [Introduction](Herodotus/Herodotus_1.0-1.9.html)
+
 ### New Testament (in progress)
 
 - [The Gospel According to John](john.md)
